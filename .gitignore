@@ -47,8 +47,8 @@ build/
 Servers/
 
 # Webアプリ生成物
-WebContent/WEB-INF/classes/
-WebContent/WEB-INF/lib/
+**/WEB-INF/classes/
+**/WEB-INF/lib/
 
 # ======================
 # OS files
