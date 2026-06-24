@@ -25,5 +25,6 @@
 		</tr>
 		</c:forEach>
 	</table>
+	<a href="/itemsystem-tutor/ItemServlet?action=add">新規登録</a>
 </body>
 </html>
